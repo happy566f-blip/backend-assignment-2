@@ -1,0 +1,15 @@
+{
+  "name": "student-management-api",
+  "version": "1.0.0",
+  "description": "Student Management REST API built with Node.js and Express (in-memory data, no database)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "keywords": ["express", "rest-api", "crud", "nodejs"],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
